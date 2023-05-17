@@ -1,1 +1,1 @@
-More insight on how to create alias, i.e replacing a command with another name
+My readme on shell variables expansons and alias
